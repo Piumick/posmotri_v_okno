@@ -103,8 +103,8 @@ ol {
   appearance: none;
   border: none;
   padding: 0;
-  border-bottom: solid 1px #fff ;
-  border-top: solid 1px rgba(255, 255, 255, 0.7);
+  border-bottom: solid 1px #fff;
+  border-top: solid 1px #fff;
   inline-size: 225px;
   block-size: 27px;
   background-color: transparent;
